@@ -1,6 +1,6 @@
 # Notefy-Web
 ----
-<img src="imgs/logo_notefy.png" width="400">
+<img src="imgs/logo_notefy.png" width="600">
 
 Web Portal of Official NoteFy App.
 
